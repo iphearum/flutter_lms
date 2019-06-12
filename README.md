@@ -1,4 +1,4 @@
-# noober
+# Flutter App
 
 New technology to me for develop app with Flutter
 
