@@ -4,10 +4,10 @@ New technology to me for develop app with Flutter
 
 # Screenshoot
 login screen using with method push and pop
-<img width="590" alt="Screen Shot 2019-06-12 at 4 17 13 PM" src="https://user-images.githubusercontent.com/38729044/59339344-347b0400-8d2e-11e9-871f-6294f1457594.png">
+<img width="285" alt="Screen Shot 2019-06-12 at 4 17 13 PM" src="https://user-images.githubusercontent.com/38729044/59339344-347b0400-8d2e-11e9-871f-6294f1457594.png">
 
 Home screen use function and constractor to get push from login screen
-<img width="590" alt="Screen Shot 2019-06-12 at 4 17 13 PM" src="https://user-images.githubusercontent.com/38729044/59339344-347b0400-8d2e-11e9-871f-6294f1457594.png">
+<img width="285" alt="Screen Shot 2019-06-12 at 4 17 13 PM" src="https://user-images.githubusercontent.com/38729044/59339344-347b0400-8d2e-11e9-871f-6294f1457594.png">
 
 ## Getting Started
 
