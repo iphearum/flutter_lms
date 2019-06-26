@@ -37,9 +37,6 @@ class MyHomePageState extends StatelessWidget {
         minWidth: MediaQuery.of(context).size.width,
         padding: EdgeInsets.fromLTRB(20.0, 1.0, 20.0, 1.0),
         onPressed: () {
-          // Function(){
-          //   return HomeScreen();
-          // }
           // push to homescreen
           final homeRoute = MaterialPageRoute(builder: (context) {
             return HomeScreen();
